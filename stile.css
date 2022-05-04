@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+
+.navbar-brand {
+	font-family: 'Eagle Lake', cursive;
+	font-size: 1.25rem;
+}
+
+.col-md-12-background {
+	padding-top: 1.3rem !important;
+	padding-bottom: 1.4rem !important;
+}
+
+.btn-primary {
+	background: #61879E;
+	color: white;
+	border-color: #61879E;
+}
+
+.btn-primary:hover {
+	background: #3A515F;
+}
+
